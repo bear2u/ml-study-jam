@@ -3,8 +3,8 @@
 
 ## [최종 공지]
 
-그룹명 : 부인모<br/>
-소속 : 신청시 작성하셨던 내용
+- 그룹명 : 부인모
+- 소속 : 신청시 작성하셨던 내용
 
 ## [이전 신청하신 내용]
 
@@ -26,9 +26,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSc-A5OeZcvenK4e7pFfFEqz2H1obXAM79eqFpq4
 
 # [퀵랩 한글 문서]
 
-퀵랩 1 - https://goo.gl/E856Na
-퀵랩 2 - https://goo.gl/5efXd8
-퀵랩 3 - https://goo.gl/WwGveb
+- 퀵랩 1 - https://goo.gl/E856Na
+- 퀵랩 2 - https://goo.gl/5efXd8
+- 퀵랩 3 - https://goo.gl/WwGveb
 
 # [참고 문서]
 GCP ML Engine 을 이용해서 CIFAR10 데이터셋에 대하여
