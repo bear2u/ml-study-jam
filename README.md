@@ -29,3 +29,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSc-A5OeZcvenK4e7pFfFEqz2H1obXAM79eqFpq4
 퀵랩 1 - https://goo.gl/E856Na
 퀵랩 2 - https://goo.gl/5efXd8
 퀵랩 3 - https://goo.gl/WwGveb
+
+# [참고 문서]
+GCP ML Engine 을 이용해서 CIFAR10 데이터셋에 대하여
+이미지 분류를 수행하는 과정도 일부 담겨 있습니다. (GogleLeNet - 백엔드)
+
+TensorFlow를 기본 안다는 전제하에 코드 이해는 되지만,
+기본적인 ML Engine 의 구조, 구동 방법에 대한 Workflow 등의 내용이 포함되어 있습니다.
+
+https://github.com/bear2u/ml-study-jam/blob/master/GCP_ML_ENGINE_%20%EC%82%AC%EC%9A%A9%EB%B2%95.pdf
