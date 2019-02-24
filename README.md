@@ -29,6 +29,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSc-A5OeZcvenK4e7pFfFEqz2H1obXAM79eqFpq4
 - 퀵랩 1 - https://goo.gl/E856Na
 - 퀵랩 2 - https://goo.gl/5efXd8
 - 퀵랩 3 - https://goo.gl/WwGveb
+- 퀵랩 4 - https://goo.gl/WQxkwh
 
 # [참고 문서]
 GCP ML Engine 을 이용해서 CIFAR10 데이터셋에 대하여
